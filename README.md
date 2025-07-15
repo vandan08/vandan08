@@ -1,66 +1,74 @@
-# 👋 Hi there, I’m Vandan Sheth
+# 👋 Hey there, I’m Vandan Sheth
 
-🎯 **Backend Developer | Java Enthusiast | Python Learner | Coding Tutor (Java, Python, SQL)**  
-📍 Remote | Based in India | Open to Freelance & Tutoring Roles
+🎯 **Backend Developer | Java Specialist | Full-Stack Explorer | Freelance Tech Enthusiast**  
+📍 Remote | Based in India | Open to Backend Projects & Freelance Opportunities
 
----
-
-## 💼 About Me
-
-I'm a backend developer with over a year of hands-on experience in:
-
-- 🧠 **Java & Spring Boot** – REST APIs, enterprise-grade backend systems, real-world business logic
-- 🗄️ **SQL & PostgreSQL** – Schema design, data integrity, ORM integration
-- 🐍 **Python** – Practical experience in scripting and problem-solving
-- 🌐 **JavaScript, Angular, Node.js** – Full-stack exposure with modern frameworks
-
-Currently working remotely at **OneIT**, where I contribute to real-world enterprise software projects including Learning Management Systems and payment integrations.
+<a href="https://app.daily.dev/vandan8">
+  <img src="https://api.daily.dev/devcards/v2/YN7cBIQl5aEb12LaafUd6.png?type=wide&r=tps" width="100%" alt="Vandan Sheth's Dev Card"/>
+</a>
 
 ---
 
-## 🧑‍🏫 Tutoring Availability
+## 💡 About Me
 
-I’m also available as a **coding tutor** for **Java, Python, and SQL** — especially for students looking for help with:
+I'm a passionate backend developer with 1+ year of professional experience in building real-world, scalable solutions using:
 
-- Explaining key concepts clearly
-- Walking through coding problems and real use cases
-- Reviewing and debugging code together
+- 🚀 **Java + Spring Boot** for robust backend development
+- 🧠 **SQL & PostgreSQL** for designing efficient, normalized databases
+- 🐍 **Python** for scripting and automation tasks
+- 🌐 **JavaScript (Angular/Node.js)** for full-stack delivery when needed
 
-📅 Available: 3–4 times a week  
-🧑‍🎓 Ideal for: College students, beginners, and career switchers  
-🌍 Comfortable working with students in **US time zones**
+Currently working remotely at **OneIT**, where I engineer backend systems for enterprise applications — including Learning Management Systems, payment integration modules (Eway, Chargebee), and dynamic dashboards.
 
----
-
-## 🚀 Tech Stack
-
-- **Languages**: Java, Python, JavaScript, TypeScript, SQL
-- **Frameworks**: Spring Boot, Node.js, ReactJS, Angular
-- **Databases**: PostgreSQL, MySQL
-- **Tools**: Git, Maven, IntelliJ, VS Code
-- **Concepts**: REST APIs, ORM, Multithreading, Microservices, Shell scripting
+I take pride in writing clean, modular code, solving real problems, and continuously learning to stay ahead of the curve.
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tech Toolbox
 
-- Finalist – **Coding World Cup 2023** (AIR 88)
-- Completed internships and projects with real-world business logic and payment integrations
-- Actively contributing to multiple full-stack projects (LMS, real estate platform, task manager, etc.)
+**Languages**  
+`Java` `Python` `JavaScript` `TypeScript` `SQL`
+
+**Frameworks & Libraries**  
+`Spring Boot` `ReactJS` `Angular` `Node.js`
+
+**Databases**  
+`PostgreSQL` `MySQL`
+
+**Tools & Platforms**  
+`Git` `Maven` `IntelliJ IDEA` `VS Code` `REST APIs` `ORM` `Microservices` `Shell Scripting`
 
 ---
 
-## 📫 Let's Connect
+## 🌟 Highlights & Achievements
 
-- 📧 Email: vandanbsheth9@gmail.com
-- 📞 Phone: +91 9909860240
+- 🏆 **Finalist – Coding World Cup 2023** *(AIR 88 out of 500+ finalists)*
+- 💼 Successfully delivered multiple backend modules for live enterprise platforms
+- 💡 Integrated real-time payment systems and built customizable admin workflows
+- 🔧 Built and maintained full-stack applications like LMS, real estate portal, and internal tools
+
+---
+
+## 📂 Featured Projects
+
+- 🔗 [Skyline Estate (Live)](https://realestate-project-e0oq.onrender.com/) – Real estate listing platform with dynamic category management  
+- 📦 Aveling LMS – Enterprise-grade training portal with booking, payments, and invoicing  
+- 🧾 Internal Admin Tools – RESTful backend APIs for managing user, company, and invoice data  
+
+*(More projects coming soon!)*
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 Email: **vandanbsheth9@gmail.com**
+- 📞 Phone: **+91 9909860240**
 - 💻 [GitHub](https://github.com/vandan08)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vandan-sheth08/)
 - 💡 [LeetCode](https://leetcode.com/u/vandan08/)
-- 🌐 Portfolio Projects: [Skyline Estate (Live)](https://realestate-project-e0oq.onrender.com/)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”* – Martin Fowler
 
-Thanks for stopping by! 👨‍💻
+Thanks for visiting! ⚡  
